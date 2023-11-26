@@ -1,0 +1,9 @@
+Footer {
+    width : 100%;
+    background-color: aquamarine;
+    padding: 2rem;
+
+}
+Footer > p {
+    text-align: center;
+}
