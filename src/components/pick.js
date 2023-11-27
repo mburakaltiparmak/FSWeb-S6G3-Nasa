@@ -11,7 +11,7 @@ import {
 const CarouselContainer = styled.div`
   background-color: black;
 `;
-
+//
 const Pick = (props) => {
   const [activeIndex, setActiveIndex] = useState(0);
   const [animating, setAnimating] = useState(false);
